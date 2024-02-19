@@ -101,9 +101,3 @@ def list_with_even_numbers(list):
 	return even_numbers #returns a list with even numbers
 
 
-
-car_1 = Car("Audi", "White")
-car_2 = Car("BMW", "Black")
-car_3 = Car("Hyundai", "Gray")
-
-
