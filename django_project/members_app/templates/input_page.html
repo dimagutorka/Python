@@ -3,5 +3,5 @@
 <form method="post" action= "{% url 'user_input' %}">
     {% csrf_token %}
     {{ form.as_p }}
-    <button type="submit">Send data</button>
+    <button type="submit">Submit</button>
 </form>
